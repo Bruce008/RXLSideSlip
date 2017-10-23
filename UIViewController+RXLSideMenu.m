@@ -20,7 +20,7 @@
             iter = iter.parentViewController;
         } else {
             iter = nil;
-        }
+        } 
     }
     return nil;
 }
